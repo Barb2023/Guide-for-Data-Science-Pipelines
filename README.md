@@ -1,9 +1,11 @@
 <p align="center"><img src= "https://media.licdn.com/dms/image/C4D12AQGghRyn5qRWvw/article-cover_image-shrink_600_2000/0/1650569186347?e=2147483647&v=beta&t=EYSCGxHADlRWjERxfyfiH6rYjRhBcvgwfiaOLkxkauI" alt ="trends" style='width:500px;'></p>
 
 ----
-### 🧿 Sample Pipelines #
+### 🧿 Data Science Libraries #
 
 In this repository you'll find simple step-by-step giideline/pipeline using Pycaret3,scikit-learn, pandas, Seaborn.
+
+In Data Science there are tools, packages, and plenty of machine learning library you can choose and explore, below are some of them that we have used so far.
 
 - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
@@ -19,6 +21,7 @@ In this repository you'll find simple step-by-step giideline/pipeline using Pyca
 
 
 ----
+### 🧿 Sample Pipelines #
 
 * Classification Pipeline
 
