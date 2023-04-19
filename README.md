@@ -71,7 +71,7 @@ In Data Science there are tools, packages, and plenty of machine learning librar
 ----
 ### 🧿 Data Source / Reference guide #
 
-[Kaggle] (https://www.kaggle.com/code/spscientist/student-performance-in-exams)
-[Pycaret] (https://pycaret.gitbook.io/docs/)
-[Pandas] (https://pandas.pydata.org/docs/getting_started/overview.html)
-[Matplotlib] (https://matplotlib.org/stable/index.html)
+* [Kaggle] (https://www.kaggle.com/code/spscientist/student-performance-in-exams)
+* [Pycaret] (https://pycaret.gitbook.io/docs/)
+* [Pandas] (https://pandas.pydata.org/docs/getting_started/overview.html)
+* [Matplotlib] (https://matplotlib.org/stable/index.html)
