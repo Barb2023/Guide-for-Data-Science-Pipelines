@@ -21,6 +21,26 @@ In Data Science there are tools, packages, and plenty of machine learning librar
 
 
 ----
+### 🧿 9 Simple steps to consider #
+
+* Loading dataset
+* Setup
+* Compare models
+* Evaluate model
+* Predict model
+* Tuning the model
+* Predicting the model from the finalized one
+* Save model
+* load model
+
+  1. StudentExams
+  2. Student Grade Prediction
+
+* Regression Pipeline
+  
+  1. Mall customers
+
+----
 ### 🧿 Sample Pipelines #
 
 * Classification Pipeline
@@ -31,6 +51,5 @@ In Data Science there are tools, packages, and plenty of machine learning librar
 * Regression Pipeline
   
   1. Mall customers
-
 
 ---
