@@ -64,4 +64,8 @@ In Data Science there are tools, packages, and plenty of machine learning librar
   
   1. Mall customers
 
+<p align="center"><img src= "https://user-images.githubusercontent.com/122539775/232958272-deaca1ab-b97d-4d69-bac7-2386962a080d.png" alt ="trends" style='width:500px;'></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/122539775/232958356-53927029-ea05-421d-b14b-41d25ce9710c.jpg" alt ="trends" style='width:500px;'></p>
+
+
 ---
