@@ -33,13 +33,6 @@ In Data Science there are tools, packages, and plenty of machine learning librar
 * Save model
 * load model
 
-  1. StudentExams
-  2. Student Grade Prediction
-
-* Regression Pipeline
-  
-  1. Mall customers
-
 ----
 ### 🧿 Sample Pipelines #
 
