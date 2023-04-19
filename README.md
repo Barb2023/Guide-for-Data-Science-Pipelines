@@ -38,8 +38,11 @@ In Data Science there are tools, packages, and plenty of machine learning librar
 
 * Classification Pipeline
 
-  1. StudentExams
-  2. Student Grade Prediction
+  1. StudentExams - short version using the 9 step guidelines.
+  (Pycaret Classification for student exam performance dataset)
+  
+  2. Student Grade Prediction - longer version using the 9 step guidelines.
+  (Student grade Analysis , classification and prediction)
 
 * Regression Pipeline
   
