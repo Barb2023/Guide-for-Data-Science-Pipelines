@@ -41,8 +41,24 @@ In Data Science there are tools, packages, and plenty of machine learning librar
   1. StudentExams - short version using the 9 step guidelines.
   (Pycaret Classification for student exam performance dataset)
   
+  <p align="center"><img src= "https://github.com/Barb2023/Guide-for-Data-Science-Pipelines/blob/main/Screenshot%202023-04-18%20234621.jpg" alt ="trends" style='width:500px;'></p>
+  
+  <p align="center"><img src= "https://github.com/Barb2023/Guide-for-Data-Science-Pipelines/blob/main/SGP%208.jpg" alt ="trends" style='width:500px;'></p>
+  
   2. Student Grade Prediction - longer version using the 9 step guidelines.
   (Student grade Analysis , classification and prediction)
+  
+  <p align="center"><img src= "https://github.com/Barb2023/Guide-for-Data-Science-Pipelines/blob/main/SGP.jpg" alt ="trends" style='width:500px;'></p>
+  
+ 
+  <p align="center"><img src= "https://github.com/Barb2023/Guide-for-Data-Science-Pipelines/blob/main/SGP%204.jpg" alt ="trends" style='width:500px;'></p>
+  
+  
+  <p align="center"><img src= "https://github.com/Barb2023/Guide-for-Data-Science-Pipelines/blob/main/SGP%207.jpg" alt ="trends" style='width:500px;'></p>
+  
+  <p align="center"><img src= "https://github.com/Barb2023/Guide-for-Data-Science-Pipelines/blob/main/SGP%208.jpg" alt ="trends" style='width:500px;'></p>
+  
+ 
 
 * Regression Pipeline
   
